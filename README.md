@@ -8,6 +8,7 @@ example.r gives a short example about specifying the path analysis code and calc
 
 pipeline.r describes the full data processing and modelling pipeline
 
+
 Required, available elsewhere:
 
 data.csv contains the bat trait data and distribution-specific climate variables. Trait data was gathered from various previously published sources and the climate variables are calculated based on the species-specific IUCN distributions (link) and global climatology rasters.
