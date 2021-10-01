@@ -4,7 +4,7 @@
 
 Contents:
 
-example.r gives a short example about specifying the path analysis code and calculating the relevant effects and statistics
+example.r gives a short example about specifying the path analysis model and calculating the relevant effects and statistics
 
 Available elsewhere:
 
